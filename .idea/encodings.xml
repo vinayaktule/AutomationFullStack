@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_01_Java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_01_Java/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_02_Selenium/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_02_Selenium/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_03_Appium/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_03_Appium/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_OOPS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_OOPS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_API_Automation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_API_Automation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_Design_Pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_Design_Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_07_BDD/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_07_BDD/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_08_Maven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_08_Maven/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_09_Jenkins/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_09_Jenkins/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_10_ProblemSolving/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_10_ProblemSolving/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

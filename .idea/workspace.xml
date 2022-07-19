@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e6c755a-c5b4-42ab-8dab-2529ebf26b2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_Java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_Java/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_Java/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Selenium/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Selenium/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Selenium/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Selenium/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Appium/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Appium/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Appium/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Appium/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_OOPS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_OOPS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_OOPS/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_OOPS/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_API_Automation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_API_Automation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_API_Automation/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_API_Automation/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_Design_Pattern/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_Design_Pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_Design_Pattern/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_Design_Pattern/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_BDD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_BDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_BDD/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_BDD/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Maven/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Maven/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Jenkins/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Jenkins/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Jenkins/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Jenkins/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10_ProblemSolving/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10_ProblemSolving/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10_ProblemSolving/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10_ProblemSolving/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinyl/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/vinyl/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C9uKuHlilHOfRJRoBOPKw8oWbU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e6c755a-c5b4-42ab-8dab-2529ebf26b2b" name="Changes" comment="" />
+      <created>1658227062554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658227062554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
